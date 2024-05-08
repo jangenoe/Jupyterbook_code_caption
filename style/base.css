@@ -3,32 +3,3 @@
 
     https://jupyterlab.readthedocs.io/en/stable/developer/css.html
 */
-
-.metadataform-jupyter-code-caption-custom-field-content {
-  border: solid 1px;
-}
-
-#metadataform-jupyter-code-caption-custom-field-elem {
-  display: flex;
-}
-
-.metadataform-jupyter-code-caption-custom-field-add .jp-icon3 {
-  fill: var(--jp-success-color1);
-}
-
-.metadataform-jupyter-code-caption-custom-field-item .jp-icon3 {
-  fill: var(--jp-error-color1);
-}
-
-#metadataform-jupyter-code-caption-custom-field-add-input {
-  width: 100%;
-  box-sizing: border-box;
-}
-
-.metadata-form-jupyter-code-caption-custom-checkbox.checked .jp-icon3 {
-  fill: var(--jp-success-color1);
-}
-
-.metadata-form-jupyter-code-caption-custom-checkbox.unchecked .jp-icon3 {
-  fill: var(--jp-error-color1);
-}

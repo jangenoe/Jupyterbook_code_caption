@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: jan.genoe@gmail.com
+author_name: Jan Genoe
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: server
+labextension_name: Jupyterbook_code_caption
+mimetype: ''
+mimetype_name: ''
+project_short_description: Generating captions in jupyter book for figures generated
+    by code
+python_name: Jupyterbook_code_caption
+repository: https://github.com/jangenoe/Jupyterbook_code_caption
+test: false
+viewer_name: ''
+
