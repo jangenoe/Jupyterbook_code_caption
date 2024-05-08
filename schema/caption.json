@@ -10,20 +10,20 @@
         "type": "object",
         "properties": {
           "/mystnb/figure/caption": {
-			"cellTypes": ["code"],
+            "cellTypes": ["code"],
             "title": "Figure caption text",
             "description": "will appear in the Jupyter book figure caption",
             "type": "string",
-			"default": "",
-			"writeDefault": false
+            "default": "",
+            "writeDefault": false
           },
           "/mystnb/figure/name": {
-			"cellTypes": ["code"],  
+            "cellTypes": ["code"],
             "title": "Figure caption label",
             "description": "To be used in {numref}`label`. Please use an unique label",
             "type": "string",
-			"default": "",
-			"writeDefault": false
+            "default": "",
+            "writeDefault": false
           }
         }
       }
