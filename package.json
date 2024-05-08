@@ -94,14 +94,14 @@
     },
     "jupyterlab": {
         "discovery": {
-        "server": {
-            "managers": [
-                "pip"
-            ],
-            "base": {
-                "name": "Jupyterbook_code_caption"
+            "server": {
+                "managers": [
+                    "pip"
+                ],
+                "base": {
+                    "name": "Jupyterbook_code_caption"
+                }
             }
-        }
         },
         "extension": true,
         "outputDir": "Jupyterbook_code_caption/labextension"
