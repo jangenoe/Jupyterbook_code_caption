@@ -51,7 +51,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: extension-artifacts
-        path: dist/Jupyterbook_code_caption*
+        path: dist/jupyterbook_code_caption*
         if-no-files-found: error
 
   test_isolated:
