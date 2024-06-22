@@ -77,4 +77,3 @@ folder is located. Then you can remove the symlink named `Jupyterbook_code_capti
 ### Packaging the extension
 
 See [RELEASE](RELEASE.md)
-
