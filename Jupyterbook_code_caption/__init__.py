@@ -14,4 +14,3 @@ def _jupyter_labextension_paths():
         "src": "labextension",
         "dest": "Jupyterbook_code_caption"
     }]
-
